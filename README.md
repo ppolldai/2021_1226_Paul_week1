@@ -21,7 +21,7 @@ Testing data：日期介於2018-09-01及2018-09-30的用戶評分資料。
 
 根據training data的資料找出消費者有評論過5星的商品進行推薦，若推薦商品不滿10個則進行第二步。
 
-2. overall top 10 recommend 
+2.overall top 10 recommend 
 
 依據Training data，找出前10個評分數量最多的商品，將這10個商品依第一個邏輯的缺額推薦給每位目標用戶。
 
